@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Distill Blog Demo Check",
-    "description": "Welcome to our new blog, Distill Blog Demo Check. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Maithreyi Gopalan",
-        "url": "https://maithgopalan.github.io/"
-      }
-    ],
-    "date": "2025-02-19",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2025-02-19T10:17:13-08:00",
-    "input_file": "welcome.knit.md"
-  },
-  {
     "path": "posts/2025-02-19-first-post/",
     "title": "First-post",
     "description": "A short description of the post.",
@@ -28,10 +11,12 @@
     ],
     "date": "2025-02-19",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2025-02-19T10:19:36-08:00",
-    "input_file": "first-post.knit.md"
+    "contents": "\r\nCheck it out. Here’s an amazing plot, with ggplot2.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-02-19-first-post/first-post_files/figure-html5/plot-1.png",
+    "last_modified": "2025-02-19T10:42:43-08:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
   },
   {
     "path": "posts/2025-02-19-second-post/",
@@ -45,9 +30,28 @@
     ],
     "date": "2025-02-19",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nNow let’s look at the same plot as in the welcome post but with l-body-outset. And now I’m just going to say a bunch of random stuff so we can see where the text ends and how the plot goes beyond that.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-02-19-second-post/second-post_files/figure-html5/plot-ex2-1.png",
+    "last_modified": "2025-02-19T10:43:05-08:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Distill Blog Demo Check",
+    "description": "Welcome to our new blog, Distill Blog Demo Check. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2025-02-19T10:20:00-08:00",
-    "input_file": "second-post.knit.md"
+    "last_modified": "2025-02-19T10:42:27-08:00",
+    "input_file": {}
   }
 ]

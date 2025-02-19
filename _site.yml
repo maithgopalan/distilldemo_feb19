@@ -3,6 +3,7 @@ title: "Distill Blog Demo Check"
 description: |
   Distill Blog Demo Check
 output_dir: "docs"
+base_url: https://maithgopalan.github.io/distilldemo_feb19/
 navbar:
   right:
     - text: "Home"
