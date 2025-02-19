@@ -1,0 +1,5 @@
+---
+title: "Distill Blog Demo Check"
+site: distill::distill_website
+listing: posts
+---

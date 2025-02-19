@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Distill Blog Demo Check",
+    "description": "Welcome to our new blog, Distill Blog Demo Check. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2025-02-19T10:17:13-08:00",
+    "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2025-02-19-first-post/",
+    "title": "First-post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2025-02-19T10:19:36-08:00",
+    "input_file": "first-post.knit.md"
+  },
+  {
+    "path": "posts/2025-02-19-second-post/",
+    "title": "Second-post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2025-02-19T10:20:00-08:00",
+    "input_file": "second-post.knit.md"
+  }
+]
